@@ -1,0 +1,17 @@
+////////////////////// Topshiriq sharti: //////////////////////
+
+Foydalanuvchi forma ichidagi inputga son kiritadi. 
+'submit' hodisasida kiritilgan songa qarab natija ko'rsatiladigan 'div' ning matni o'zgaradi.
+
+
+- kiritilgan son 3 ga bo'linsa -> 'Fizz' so'zi chiqadi.
+- kiritilgan son 5 ga bo'linsa -> 'Buzz' so'zi chiqadi.
+- kiritilgan son 3 ga va 5 ga bo'linsa -> 'FizzBuzz' so'zi chiqadi.
+- kiritilgan son 3 ga ham, 5 ga ham bo'linmasa, sonning o'zi chiqadi.
+
+Sonning biron songa bo'lina olishini tekshirish uchun qoldiq (mod) operatori ishlatiladi - %. 
+Masalan, '4 % 2 === 0', ya'ni 4 ikkiga bo'linadi. Son 10 ga bo'linishini tekshirish uchun misol: '100 % 10 === 0'. 
+'100 % 10 === 0' qismi if ichida yoziladi: 'if (100 % 10 === 0) {...}'
+
+
+////////////////////// Topshiriq sharti: //////////////////////
